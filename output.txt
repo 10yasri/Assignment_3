@@ -1,0 +1,64 @@
+Processing file: 01 - Move forward 5 meters 1.wav
+Transcription: move forward 5 metres
+Instruction: Move forward by 5 metres
+Details:
+Distance: 5, Unit: metres, Direction: forward
+
+
+Processing file: 02 - Fly up 10 meters 1.wav
+Transcription: fly up 10 metres
+Instruction: Fly up by 10 metres
+Details:
+Distance: 10, Unit: metres, Direction: up
+
+
+Processing file: 03 - Move backward 3 meters 1.wav
+Transcription: move backward 3 m
+Instruction: Move backward by 3 m
+Details:
+Distance: 3, Unit: m, Direction: backward
+
+
+Processing file: 04 - Move left 2 meters 1.wav
+Transcription: move left to metres
+No valid instructions found.
+
+Processing file: 05 - Fly right 7 meters 1.wav
+Transcription: fly right 7 metres
+Instruction: Fly right by 7 metres
+Details:
+Distance: 7, Unit: metres, Direction: right
+
+
+Processing file: 06 - Move down 4 meters 1.wav
+Transcription: move down 4 metres
+Instruction: Move down by 4 metres
+Details:
+Distance: 4, Unit: metres, Direction: down
+
+
+Processing file: 07 - Fly up 6 meters 1.wav
+Transcription: fire 6 metres
+No valid instructions found.
+
+Processing file: 08 - Move forward 8 meters 1.wav
+Transcription: move forward 8 metres
+Instruction: Move forward by 8 metres
+Details:
+Distance: 8, Unit: metres, Direction: forward
+
+
+Processing file: 09 - Move backward 1 meter 1.wav
+Transcription: move backward 1 m
+Instruction: Move backward by 1 m
+Details:
+Distance: 1, Unit: m, Direction: backward
+
+
+Processing file: 10 - Fly left 3 meters 1.wav
+Transcription: fly left 3 metres
+Instruction: Fly left by 3 metres
+Details:
+Distance: 3, Unit: metres, Direction: left
+
+
